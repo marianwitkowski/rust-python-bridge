@@ -1,1 +1,1 @@
-# Wywoływanie method napisanych w Rust z wykorzystaniem Pythona
+# Wywoływanie funkcji napisanych w Rust z wykorzystaniem Pythona
